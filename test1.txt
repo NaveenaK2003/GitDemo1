@@ -1,1 +1,1 @@
-Now the it is in GitBranch1 the file is created inside the GitBranch2
+Now the it is in GitBranch1 the file is created inside the GitBranch2..
